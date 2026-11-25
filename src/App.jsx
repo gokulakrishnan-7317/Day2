@@ -22,6 +22,10 @@ function App() {
     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Submit
 
       </button>
+      <p className="text-gray-500 text-center">This is a sample React application using Vite and Tailwind CSS.</p>
+    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Submit
+
+      </button>
     </>
   )
 }
